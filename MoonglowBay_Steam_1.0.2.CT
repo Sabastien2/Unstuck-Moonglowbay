@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"Height"</Description>
+      <LastState Value="1.417999983" RealAddress="16202D4BC04"/>
+      <VariableType>Float</VariableType>
+      <Address>"UnityPlayer.dll"+01AA6160</Address>
+      <Offsets>
+        <Offset>1FC</Offset>
+        <Offset>8</Offset>
+        <Offset>60</Offset>
+        <Offset>1C0</Offset>
+        <Offset>58</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>85</Key>
+          </Keys>
+          <Value>1.6</Value>
+          <Description>height</Description>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"y"</Description>
+      <LastState Value="2.40045166" RealAddress="16202D4BBFC"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>"UnityPlayer.dll"+01AA6160</Address>
+      <Offsets>
+        <Offset>1f4</Offset>
+        <Offset>8</Offset>
+        <Offset>60</Offset>
+        <Offset>1c0</Offset>
+        <Offset>58</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>85</Key>
+          </Keys>
+          <Value>2.370521069</Value>
+          <Description>y</Description>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"x"</Description>
+      <LastState Value="2.453693628" RealAddress="16202D4BC0C"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>"UnityPlayer.dll"+01AA6160</Address>
+      <Offsets>
+        <Offset>204</Offset>
+        <Offset>8</Offset>
+        <Offset>60</Offset>
+        <Offset>1c0</Offset>
+        <Offset>58</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>85</Key>
+          </Keys>
+          <Value>2.425358295</Value>
+          <Description>X</Description>
+          <ID>0</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
