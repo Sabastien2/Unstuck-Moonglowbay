@@ -1,0 +1,5 @@
+
+
+MoonglowBay_Hotkey_U.CT - is the file you load into cheat engine for the xbox pc version
+
+MoonglowBay_Steam_1.0.2.CT - is the file you load into cheat engine for the steam pc version
